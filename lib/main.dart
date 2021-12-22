@@ -4,6 +4,8 @@ import 'package:spot_the_bird/bloc/bird_post_cubit.dart';
 import 'package:spot_the_bird/bloc/location_cubit.dart';
 import 'package:spot_the_bird/screens/map_screen.dart';
 
+//this in main branch
+
 void main() {
   runApp(const MyApp());
 }
