@@ -11,7 +11,7 @@ import 'dart:io';
 
 import 'bird_info_screen.dart';
 
-class MapScreen extends StatelessWidget {
+class MapScreen extends StatelessWidget {//
   final MapController _mapController = MapController();
 
   Future<void> _pickImageAndCreatePost(
